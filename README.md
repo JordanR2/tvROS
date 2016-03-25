@@ -1,5 +1,5 @@
 # tvROS
-An operating system created for a raspberry pi, it is similar to a home entertainment system but this operating system also turns your tv into a smart tv to be controlled by a wireless keyboard.
+An operating system created for a raspberry pi, it is similar to a home entertainment system but this operating system also turns your tv into a smart tv to be controlled by a wireless keyboard. tvROS = television Raspberry pi Operating System 
 
 I want to create software that allows anyone with a raspberry pi to have a smart tv, I plan on making the software free and I want the operating system to be able to browse the Internet.
 
